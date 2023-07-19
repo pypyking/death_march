@@ -1,1 +1,2 @@
 pythoninfo()
+print('hello world')
