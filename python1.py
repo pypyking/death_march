@@ -1,2 +1,0 @@
-pythoninfo()
-print('hello world')
